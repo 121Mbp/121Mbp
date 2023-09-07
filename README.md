@@ -3,7 +3,7 @@
 <a href="https://dominickwon.tistory.com"><img src="https://img.shields.io/badge/tistory-EC4815?style=flat&logo=tistory&logoColor=white" /></a>
 <a href="mailto:nino09@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat&logo=naver&logoColor=white" /></a>
 
-#### Hi there 👋 
+#### Hi there 👋 I'm
 
 ### 💪 Tech Stack
 ##### Frontend
