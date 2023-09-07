@@ -3,7 +3,7 @@
 <a href="https://dominickwon.tistory.com"><img src="https://img.shields.io/badge/tistory-EC4815?style=flat&logo=tistory&logoColor=white" /></a>
 <a href="mailto:nino09@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat&logo=naver&logoColor=white" /></a>
 
-#### Hi there 👋 I'm
+#### Hi there 👋  I'm 
 
 ### 💪 Tech Stack
 ##### Frontend
@@ -20,20 +20,13 @@
 <img src="https://img.shields.io/badge/subversion-809CC9?style=flat&logo=subversion&logoColor=white" />
 
 ### 🔥 To Learn
-##### Frontend
-<img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/nodejs-339933?style=flat&logo=nodedotjs&logoColor=white" />
-
-#### Backend
+<img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white" />
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white" />
-
-#### Database
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white" />
 <img src="https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=white" />
-
-#### Server
 <img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
 
 
