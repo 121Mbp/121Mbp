@@ -1,7 +1,7 @@
 <div align='left'>
 <a href="https://github.com/121Mbp"><img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" /></a>
 <a href="https://dominickwon.tistory.com"><img src="https://img.shields.io/badge/tistory-EC4815?style=flat&logo=tistory&logoColor=white" /></a>
-<a href="mailto:nino09@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat&logo=naver&logoColor=white" /></a>
+<a href="mailto:nino09@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=flat&logo=naver&logoColor=white" /></a>
 
 #### Hi there 👋 
 
@@ -25,9 +25,8 @@
 <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white" />
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/oracledb-F80000?style=flat&logo=oracle&logoColor=white" />
 <img src="https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=white" />
-<img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
 
 
 
