@@ -1,7 +1,7 @@
 
 <div align='center'>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello,%20World!%20👋&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=E3A6AE&height=300&section=header&text=Hello,%20World!%20👋&fontSize=40)
 
 
 
@@ -31,4 +31,6 @@
 <a href="https://github.com/121Mbp"><img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" /></a>
 <a href="https://dominickwon.tistory.com"><img src="https://img.shields.io/badge/tistory-EC4815?style=flat&logo=tistory&logoColor=white" /></a>
 <a href="mailto:nino09@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=flat&logo=naver&logoColor=white" /></a>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=E3A6AE&section=footer)
 </div>
