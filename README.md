@@ -16,13 +16,11 @@
 <img src="https://img.shields.io/badge/angularjs-E23237?style=flat&logo=angularjs&logoColor=white" />
 
 ##### Tools
-<img src="https://img.shields.io/badge/visualstudio-007ACC?style=flat&logo=visualstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/vscode-007ACC?style=flat&logo=visualstudio&logoColor=white" />
 <img src="https://img.shields.io/badge/webstorm-000000?style=flat&logo=webstorm&logoColor=white" />
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/jira-0052CC?style=flat&logo=jira&logoColor=white" />
 <img src="https://img.shields.io/badge/eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white" />
-<img src="https://img.shields.io/badge/subversion-809CC9?style=flat&logo=subversion&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" />
 
 ### 🔥 To Learn
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white" />
