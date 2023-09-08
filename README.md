@@ -1,4 +1,5 @@
 <div align='left'>
+
 <a href="https://github.com/121Mbp"><img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" /></a>
 <a href="https://dominickwon.tistory.com"><img src="https://img.shields.io/badge/tistory-EC4815?style=flat&logo=tistory&logoColor=white" /></a>
 <a href="mailto:nino09@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=flat&logo=naver&logoColor=white" /></a>
@@ -15,9 +16,13 @@
 <img src="https://img.shields.io/badge/angularjs-E23237?style=flat&logo=angularjs&logoColor=white" />
 
 ##### Tools
+<img src="https://img.shields.io/badge/visualstudio-007ACC?style=flat&logo=visualstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/webstorm-000000?style=flat&logo=webstorm&logoColor=white" />
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/jira-0052CC?style=flat&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat&logo=eclipseide&logoColor=white" />
 <img src="https://img.shields.io/badge/subversion-809CC9?style=flat&logo=subversion&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" />
 
 ### 🔥 To Learn
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white" />
