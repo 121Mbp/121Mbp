@@ -22,7 +22,6 @@
 ### 🔥 To Learn
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/nodejs-339933?style=flat&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white" />
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/oracledb-F80000?style=flat&logo=oracle&logoColor=white" />
