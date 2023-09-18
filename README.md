@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=white" />
 
 ### ❤About Me
-<a href="https://github.com/121Mbp"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://121mbp.github.io/room"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="https://dominickwon.tistory.com"><img src="https://img.shields.io/badge/tistory-EC4815?style=flat-square&logo=tistory&logoColor=white" /></a>
 <a href="mailto:nino09@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=naver&logoColor=white" /></a>
 
