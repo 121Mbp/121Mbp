@@ -27,7 +27,7 @@
 ### ❤About Me
 <a href="https://121mbp.github.io/room"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="https://dominickwon.tistory.com"><img src="https://img.shields.io/badge/tistory-EC4815?style=flat-square&logo=tistory&logoColor=white" /></a>
-<a href="mailto:nino09@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=naver&logoColor=white" /></a>
+<a href="mailto:nino09@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white" /></a>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=E3A6AE&section=footer)
 </div>
