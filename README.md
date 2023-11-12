@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/webstorm-000000?style=flat-square&logo=webstorm&logoColor=white" />
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Eclipes-2C2255?style=flat-square&logo=eclipseide&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
 <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
 
 ### 🔥 To Learn
