@@ -18,6 +18,8 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
 
 ### 🔥 To Learn
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white" />
