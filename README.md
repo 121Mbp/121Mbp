@@ -31,6 +31,8 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/swagger-85EA2D?style=flat&logo=swagger&logoColor=white" />
 <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
+
 
 #### Tools
 <img src="https://img.shields.io/badge/VS code-007ACC?style=flat&logo=VisualStudio&logoColor=white" />
