@@ -1,8 +1,7 @@
 <div align='center'>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=E3A6AE&height=300&section=header&text=Hello,%20World!%20👋&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=E3A6AE&height=300&section=header&text=Hello,%20Dominic%20World!%20👋&fontSize=40)
 
-#### 💪 Skills
 ##### FrontEnd
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -36,7 +35,7 @@
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=amazons3&logoColor=white" />
 
-#### Tools
+##### Tools
 <img src="https://img.shields.io/badge/VS code-007ACC?style=flat&logo=VisualStudio&logoColor=white" />
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white" />
 <img src="https://img.shields.io/badge/Webstorm-000000?style=flat&logo=Webstorm&logoColor=white" />
@@ -47,7 +46,7 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
 
-### ❤About Me
+#### ❤About Me
 <a href="https://121mbp.github.io/room"><img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" /></a>
 <a href="mailto:nino09@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white" /></a>
 
