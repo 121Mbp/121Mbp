@@ -1,6 +1,6 @@
 <div align='center'>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=E3A6AE&height=300&section=header&text=Hello,%20Dominic%20World!%20👋&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=E3A6AE&height=300&section=header&text=Hello,%20World!%20👋&fontSize=40)
 
 ##### FrontEnd
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
